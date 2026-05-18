@@ -78,7 +78,8 @@ The dataset contains customer-related information including:
 
 ## Dashboard Preview
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/33d48010-b45b-4c3b-9a30-fbc1b7862460" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/e6a4cf82-3626-4b65-befd-adcbbb981f5a" />
+
 
 
 ---
